@@ -45,6 +45,5 @@ module.exports = class Product {
             cb(product);
         })
     }
-    
 }
 
